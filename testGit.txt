@@ -1,4 +1,9 @@
 afsfgsfsdgfsdfgffffffFdfgdf
 dfgsdg
 12123124
+<<<<<<< HEAD
 adada1111111111
+=======
+asdsadad121111111111
+
+>>>>>>> dev
