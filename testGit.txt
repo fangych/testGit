@@ -1,7 +1,10 @@
 afsfgsfsdgfsdfgffffffFdfgdf
 dfgsdg
 12123124
+<<<<<<< HEAD
 fsfs
 afa
 sadasd
 asdahdaa
+=======
+>>>>>>> dev
